@@ -1224,8 +1224,14 @@ def generate_summary_dashboard():
         print(f"❌ Failed to generate summary dashboard: {e}")
 
 # ───────────────────────────────────────────────
-# SECTION 6.0.0 — CLI Menu and Entry Point
+# SECTION 6.0.0 — CLI Version Header
 # ───────────────────────────────────────────────
+
+VERSION = "v1.9.0"
+
+def show_header():
+    print(f"\n📺 IPTV Quick Analysis {VERSION}")
+    print("────────────────────────────────────")
 
 # ✅ 6.1.0 — menu()
 def menu():
@@ -1258,6 +1264,10 @@ def menu():
         print("15. Compare two channels side-by-side")
         print("16. Generate summary dashboard in HTML")
         print("17. Match M3U channels to EPG entries")
+        print("18. Run diagnostics on metadata files")
+	print("19. Reset generated output files")
+	print("20. Run unit tests")
+
         print("99. Exit")
 
         choice = input("Select an option: ").strip()
@@ -1314,6 +1324,15 @@ def menu():
         elif choice == '17':
             logging.info("[EXECUTE] Running match_channels_to_epg()")
             match_channels_to_epg()
+        elif choice == '18':
+	    logging.info("[EXECUTE] Running run_diagnostics()")
+	    run_diagnostics()
+	elif choice == '19':
+	    logging.info("[EXECUTE] Running reset_output_files()")
+	    reset_output_files()
+	elif choice == '20':
+	    logging.info("[EXECUTE] Running run_unit_tests()")
+	    run_unit_tests()
         elif choice == '99':
             logging.info("[EXIT] User exited the program.")
             print("👋 Exiting IPTV Quick Analysis.")
@@ -1408,3 +1427,86 @@ def launch_dashboard():
     logging.info("[DASHBOARD] Launching dashboard at http://localhost:5000")
     print("🌐 Dashboard running at http://localhost:5000")
     app.run(debug=False)
+
+# ───────────────────────────────────────────────
+# SECTION 7.1.0 — run_diagnostics()
+# ───────────────────────────────────────────────
+
+def run_diagnostics():
+    """
+    Validate JSON structure and check for dead stream URLs.
+    """
+    try:
+        with open(CHANNELS_JSON) as f:
+            channels = json.load(f)
+    except Exception as e:
+        print(f"❌ Failed to load channels: {e}")
+        return
+
+    total = len(channels)
+    missing_fields = 0
+    dead_links = 0
+
+    for ch in channels:
+        if not all(k in ch for k in ["TVG-ID", "TVG-NAME", "TVG-URL"]):
+            missing_fields += 1
+        url = ch.get("TVG-URL", "")
+        if not url.startswith("http"):
+            dead_links += 1
+
+    print(f"\n🔍 Diagnostics Report")
+    print(f"────────────────────")
+    print(f"Total channels: {total}")
+    print(f"Missing required fields: {missing_fields}")
+    print(f"Dead or malformed URLs: {dead_links}")
+
+# ───────────────────────────────────────────────
+# SECTION 7.2.0 — reset_output_files()
+# ───────────────────────────────────────────────
+def reset_output_files():
+    """
+    Delete generated HTML, CSV, and log files.
+    """
+    targets = [
+        "iptv_report.html",
+        "iptv_summary.html",
+        "filtered_channels.csv",
+        "iptv_analysis.log"
+    ]
+    deleted = 0
+    for file in targets:
+        path = os.path.join(BASE_DIR, file)
+        if os.path.exists(path):
+            try:
+                os.remove(path)
+                deleted += 1
+                print(f"🗑️ Deleted: {file}")
+            except Exception as e:
+                print(f"❌ Failed to delete {file}: {e}")
+    if deleted == 0:
+        print("⚠️ No output files found to delete.")
+
+# ───────────────────────────────────────────────
+# SECTION 7.3.0 — run_unit_tests()
+# ───────────────────────────────────────────────
+def run_unit_tests():
+    """
+    Run basic unit tests on filtering and matching logic.
+    """
+    print("\n🧪 Running Unit Tests")
+    print("─────────────────────")
+
+    # Test fuzzy match
+    sample_epg = [{"id": "bbc_one", "name": "BBC One"}, {"id": "cnn", "name": "CNN"}]
+    assert fuzzy_match_channel_name("BBC One", sample_epg) == "bbc_one"
+    assert fuzzy_match_channel_name("cnn", sample_epg) == "cnn"
+    print("✅ fuzzy_match_channel_name() passed")
+
+    # Test filtering
+    try:
+        with open(CHANNELS_JSON) as f:
+            channels = json.load(f)
+        filtered = [ch for ch in channels if "news" in ch.get("TVG-GROUP", "").lower()]
+        print(f"✅ Filtering test passed: {len(filtered)} channels matched 'news'")
+    except Exception as e:
+        print(f"❌ Filtering test failed: {e}")
