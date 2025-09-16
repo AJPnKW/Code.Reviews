@@ -1,0 +1,3139 @@
+{
+  "playlist_urls": [
+    "https://iptv-org.github.io/iptv/languages/eng.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/languages/eng.m3u",
+    "https://iptv-org.github.io/iptv/regions/amer.m3u",
+    "https://iptv-org.github.io/iptv/regions/noram.m3u",
+    "https://iptv-org.github.io/iptv/regions/nam.m3u",
+    "https://iptv-org.github.io/iptv/regions/oce.m3u",
+    "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "https://iptv-org.github.io/iptv/countries/uk.m3u",
+    "https://iptv-org.github.io/iptv/countries/au.m3u",
+    "https://iptv-org.github.io/iptv/countries/nz.m3u",
+    "https://iptv-org.github.io/iptv/countries/vg.m3u",
+    "https://iptv-org.github.io/iptv/countries/int.m3u",
+    "https://iptv-org.github.io/iptv/categories/animation.m3u",
+    "https://iptv-org.github.io/iptv/categories/comedy.m3u",
+    "https://iptv-org.github.io/iptv/categories/news.m3u",
+    "https://iptv-org.github.io/iptv/categories/sports.m3u",
+    "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+    "https://www.apsattv.com/xumo.m3u",
+    "https://www.apsattv.com/rok.m3u",
+    "https://www.apsattv.com/lg.m3u",
+    "https://www.apsattv.com/firetv.m3u",
+    "https://www.apsattv.com/vizio.m3u",
+    "https://www.apsattv.com/xiaomi.m3u",
+    "https://www.apsattv.com/tablo.m3u",
+    "https://www.apsattv.com/localnow.m3u",
+    "https://www.apsattv.com/redbox.m3u",
+    "https://www.apsattv.com/tubi.m3u",
+    "https://www.apsattv.com/cineverse.m3u",
+    "https://www.apsattv.com/distro.m3u",
+    "https://www.apsattv.com/klowd.m3u"
+  ],
+  "epg_urls": [
+    "https://epg.pw/xmltv/epg.xml.gz",
+    "https://epgshare01.online/epg.xml.gz",
+    "https://epg.pw/xmltv/epg_US.xml.gz",
+    "https://epg.pw/xmltv/epg_US.xml",
+    "https://epg.pw/xmltv/epg_CA.xml.gz",
+    "https://epg.pw/xmltv/epg_CA.xml",
+    "https://epg.pw/xmltv/epg_GB.xml.gz",
+    "https://epg.pw/xmltv/epg_GB.xml",
+    "https://epg.pw/xmltv/epg_AU.xml.gz",
+    "https://epg.pw/xmltv/epg_AU.xml",
+    "https://epg.pw/xmltv/epg_NZ.xml.gz",
+    "https://epg.pw/xmltv/epg_NZ.xml",
+    "https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml",
+    "https://i.mjh.nz/nzau/epg.xml.gz"
+  ],
+  "status_history": {
+    "https://iptv-org.github.io/iptv/languages/eng.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 138
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 90
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 90
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 87
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 86
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 166
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 75
+      }
+    ],
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/languages/eng.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 404,
+        "ok": false
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 273
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 108
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 117
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 76
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 74
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 143
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 74
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 177
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 79
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 108
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 92
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 126
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 95
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 70
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 176
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 94
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 68
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 136
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 70
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 88
+      }
+    ],
+    "https://iptv-org.github.io/iptv/regions/amer.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 223
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 140
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 158
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 114
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 119
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 126
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 126
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 116
+      }
+    ],
+    "https://iptv-org.github.io/iptv/regions/noram.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 197
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 88
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 95
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 74
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 73
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 68
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 73
+      }
+    ],
+    "https://iptv-org.github.io/iptv/regions/nam.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 194
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 115
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 174
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 120
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      }
+    ],
+    "https://iptv-org.github.io/iptv/regions/oce.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 133
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 155
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 99
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 92
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 116
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/us.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 82
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 87
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 84
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 79
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 71
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/ca.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 87
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 102
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 73
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 139
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 93
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 77
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 93
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/uk.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 119
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 122
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 93
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 81
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 84
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 79
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/au.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 145
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 117
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 118
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 124
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 113
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 118
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 85
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/nz.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 105
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 114
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 144
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 99
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 102
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 140
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 92
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/vg.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 119
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 94
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 115
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 167
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 91
+      }
+    ],
+    "https://iptv-org.github.io/iptv/countries/int.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 125
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 149
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 148
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 124
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 106
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 87
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 94
+      }
+    ],
+    "https://iptv-org.github.io/iptv/categories/animation.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 2583
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 128
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 200
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 88
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 93
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 114
+      }
+    ],
+    "https://iptv-org.github.io/iptv/categories/comedy.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 126
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 115
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 119
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 102
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 95
+      }
+    ],
+    "https://iptv-org.github.io/iptv/categories/news.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 122
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 94
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 177
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 120
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 114
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      }
+    ],
+    "https://iptv-org.github.io/iptv/categories/sports.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 81
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 134
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 77
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 99
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 74
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      }
+    ],
+    "https://i.mjh.nz/SamsungTVPlus/all.m3u8": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 404,
+        "ok": false
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 130
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 95
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 88
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 82
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 177
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 108
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 117
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 131
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 132
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 94
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 130
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 114
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 85
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 92
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 176
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 80
+      }
+    ],
+    "https://www.apsattv.com/xumo.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 576
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 557
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 580
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 590
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 542
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 590
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 369
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 583
+      }
+    ],
+    "https://www.apsattv.com/rok.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 547
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 300
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 550
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 534
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 294
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 308
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 518
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 522
+      }
+    ],
+    "https://www.apsattv.com/lg.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 307
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 525
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 327
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 309
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 552
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 531
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 548
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 539
+      }
+    ],
+    "https://www.apsattv.com/firetv.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 334
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 524
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 306
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 525
+      }
+    ],
+    "https://www.apsattv.com/vizio.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 338
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 531
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 319
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 342
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 336
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 318
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 299
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 324
+      }
+    ],
+    "https://www.apsattv.com/xiaomi.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 575
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 329
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 534
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 329
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 515
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 321
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 307
+      }
+    ],
+    "https://www.apsattv.com/tablo.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 314
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 314
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 324
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 315
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 541
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 312
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 302
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 301
+      }
+    ],
+    "https://www.apsattv.com/localnow.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 371
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 337
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 321
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 311
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 308
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 312
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 325
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 295
+      }
+    ],
+    "https://www.apsattv.com/redbox.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 325
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 320
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 327
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 430
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 312
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 314
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 326
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 315
+      }
+    ],
+    "https://www.apsattv.com/tubi.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 404,
+        "ok": false
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 334
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 338
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 340
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 355
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 304
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 322
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 553
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 304
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 306
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 538
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 339
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 328
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 327
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 326
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 521
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 304
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 322
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 306
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 323
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 308
+      }
+    ],
+    "https://www.apsattv.com/cineverse.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 329
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 324
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 332
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 308
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 361
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 327
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 311
+      }
+    ],
+    "https://www.apsattv.com/distro.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 368
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 321
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 296
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 308
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 325
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 333
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 319
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 304
+      }
+    ],
+    "https://www.apsattv.com/klowd.m3u": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 344
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 314
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 302
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 334
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 325
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 315
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 301
+      }
+    ],
+    "https://epg.pw/xmltv/epg.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 179
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 140
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 193
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 206
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 159
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 194
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 180
+      }
+    ],
+    "https://epgshare01.online/epg.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 404,
+        "ok": false
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 305
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 116
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 77
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 169
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 225
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 115
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 216
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 94
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 201
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 106
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 204
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 107
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 270
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 104
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 77
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 273
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 404,
+        "ok": false,
+        "response_time_ms": 89
+      }
+    ],
+    "https://epg.pw/xmltv/epg_US.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 102
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 184
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 81
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 117
+      }
+    ],
+    "https://epg.pw/xmltv/epg_US.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 101
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 108
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 134
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 80
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 84
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 96
+      }
+    ],
+    "https://epg.pw/xmltv/epg_CA.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 112
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 118
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 235
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 89
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 92
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 95
+      }
+    ],
+    "https://epg.pw/xmltv/epg_CA.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 113
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 90
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 83
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 102
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 83
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 112
+      }
+    ],
+    "https://epg.pw/xmltv/epg_GB.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 105
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 112
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 87
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 120
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 113
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      }
+    ],
+    "https://epg.pw/xmltv/epg_GB.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 109
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 95
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 107
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 81
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 85
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 79
+      }
+    ],
+    "https://epg.pw/xmltv/epg_AU.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 135
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 100
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 113
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 80
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 215
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 117
+      }
+    ],
+    "https://epg.pw/xmltv/epg_AU.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 128
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 117
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 215
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 93
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 97
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 86
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 106
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 106
+      }
+    ],
+    "https://epg.pw/xmltv/epg_NZ.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 117
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 108
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 253
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 91
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 92
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      }
+    ],
+    "https://epg.pw/xmltv/epg_NZ.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 112
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 98
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 232
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 104
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 106
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 99
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 120
+      }
+    ],
+    "https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 200,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 142
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 69
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 111
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 126
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 106
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 105
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 200,
+        "ok": true,
+        "response_time_ms": 129
+      }
+    ],
+    "https://i.mjh.nz/nzau/epg.xml.gz": [
+      {
+        "timestamp": "2025-09-15T19:47:28.816125",
+        "status_code": 302,
+        "ok": true
+      },
+      {
+        "timestamp": "2025-09-15T20:25:57.521017",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 121
+      },
+      {
+        "timestamp": "2025-09-15T20:28:54.928608",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 110
+      },
+      {
+        "timestamp": "2025-09-15T21:55:00.985081",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 118
+      },
+      {
+        "timestamp": "2025-09-15T22:14:24.445117",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 679
+      },
+      {
+        "timestamp": "2025-09-15T22:26:43.033086",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 96
+      },
+      {
+        "timestamp": "2025-09-15T22:54:23.195309",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 103
+      },
+      {
+        "timestamp": "2025-09-15T23:33:23.656544",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 81
+      },
+      {
+        "timestamp": "2025-09-15T23:51:04.175212",
+        "status_code": 302,
+        "ok": true,
+        "response_time_ms": 74
+      }
+    ]
+  },
+  "last_status": {
+    "https://iptv-org.github.io/iptv/languages/eng.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 75
+    },
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/languages/eng.m3u": {
+      "alive": false,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 88
+    },
+    "https://iptv-org.github.io/iptv/regions/amer.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 116
+    },
+    "https://iptv-org.github.io/iptv/regions/noram.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 73
+    },
+    "https://iptv-org.github.io/iptv/regions/nam.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 104
+    },
+    "https://iptv-org.github.io/iptv/regions/oce.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 97
+    },
+    "https://iptv-org.github.io/iptv/countries/us.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 89
+    },
+    "https://iptv-org.github.io/iptv/countries/ca.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 93
+    },
+    "https://iptv-org.github.io/iptv/countries/uk.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 79
+    },
+    "https://iptv-org.github.io/iptv/countries/au.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 85
+    },
+    "https://iptv-org.github.io/iptv/countries/nz.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 92
+    },
+    "https://iptv-org.github.io/iptv/countries/vg.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 91
+    },
+    "https://iptv-org.github.io/iptv/countries/int.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 94
+    },
+    "https://iptv-org.github.io/iptv/categories/animation.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 114
+    },
+    "https://iptv-org.github.io/iptv/categories/comedy.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 95
+    },
+    "https://iptv-org.github.io/iptv/categories/news.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 98
+    },
+    "https://iptv-org.github.io/iptv/categories/sports.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 97
+    },
+    "https://i.mjh.nz/SamsungTVPlus/all.m3u8": {
+      "alive": false,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 80
+    },
+    "https://www.apsattv.com/xumo.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 583
+    },
+    "https://www.apsattv.com/rok.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 522
+    },
+    "https://www.apsattv.com/lg.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 539
+    },
+    "https://www.apsattv.com/firetv.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 525
+    },
+    "https://www.apsattv.com/vizio.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 324
+    },
+    "https://www.apsattv.com/xiaomi.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 307
+    },
+    "https://www.apsattv.com/tablo.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 301
+    },
+    "https://www.apsattv.com/localnow.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 295
+    },
+    "https://www.apsattv.com/redbox.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 315
+    },
+    "https://www.apsattv.com/tubi.m3u": {
+      "alive": false,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 308
+    },
+    "https://www.apsattv.com/cineverse.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 311
+    },
+    "https://www.apsattv.com/distro.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 304
+    },
+    "https://www.apsattv.com/klowd.m3u": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 301
+    },
+    "https://epg.pw/xmltv/epg.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 180
+    },
+    "https://epgshare01.online/epg.xml.gz": {
+      "alive": false,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 89
+    },
+    "https://epg.pw/xmltv/epg_US.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 117
+    },
+    "https://epg.pw/xmltv/epg_US.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 96
+    },
+    "https://epg.pw/xmltv/epg_CA.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 95
+    },
+    "https://epg.pw/xmltv/epg_CA.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 112
+    },
+    "https://epg.pw/xmltv/epg_GB.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 104
+    },
+    "https://epg.pw/xmltv/epg_GB.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 79
+    },
+    "https://epg.pw/xmltv/epg_AU.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 117
+    },
+    "https://epg.pw/xmltv/epg_AU.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 106
+    },
+    "https://epg.pw/xmltv/epg_NZ.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 104
+    },
+    "https://epg.pw/xmltv/epg_NZ.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 120
+    },
+    "https://raw.githubusercontent.com/iptv-org/epg/master/sites/tvguide.com/tvguide.com.channels.xml": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 129
+    },
+    "https://i.mjh.nz/nzau/epg.xml.gz": {
+      "alive": true,
+      "last_checked": "2025-09-15T23:51:04.175212",
+      "response_time_ms": 74
+    }
+  }
+}

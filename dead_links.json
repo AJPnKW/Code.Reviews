@@ -1,0 +1,22 @@
+{
+  "https://raw.githubusercontent.com/iptv-org/iptv/master/languages/eng.m3u": {
+    "alive": false,
+    "last_checked": "2025-09-15T23:51:04.175212",
+    "response_time_ms": 88
+  },
+  "https://i.mjh.nz/SamsungTVPlus/all.m3u8": {
+    "alive": false,
+    "last_checked": "2025-09-15T23:51:04.175212",
+    "response_time_ms": 80
+  },
+  "https://www.apsattv.com/tubi.m3u": {
+    "alive": false,
+    "last_checked": "2025-09-15T23:51:04.175212",
+    "response_time_ms": 308
+  },
+  "https://epgshare01.online/epg.xml.gz": {
+    "alive": false,
+    "last_checked": "2025-09-15T23:51:04.175212",
+    "response_time_ms": 89
+  }
+}
